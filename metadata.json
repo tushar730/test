@@ -1,0 +1,7 @@
+{
+  "name": "CryptoPulse AI",
+  "description": "An AI-powered crypto trading indicator app that analyzes market trends to predict price movements.",
+  "icon": "/icon.svg",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
